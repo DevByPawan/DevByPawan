@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-agrahari-13bbb4317)
 
 <!--
 **DevByPawan/DevByPawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
