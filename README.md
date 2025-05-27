@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Pawan! 👋
+
+I'm a passionate developer building cool things with code. I enjoy learning new technologies and contributing to open-source projects.
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-agrahari-13bbb4317)
