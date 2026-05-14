@@ -1,4 +1,4 @@
-# Hi, I'm Pawan! 👋
+# Hi, I'm Pawan Agrahari! 👋
 
 I'm a passionate developer building cool things with code. I enjoy learning new technologies and contributing to open-source projects.
 ### 🌐 Connect with me
